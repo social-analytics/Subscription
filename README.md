@@ -42,4 +42,4 @@
 	[idea](http://ux.stackexchange.com/questions/62493/how-to-make-registration-login-for-premium-account-purchase-as-painless-as-possi)
   	
   
-	[Article](http://www.smashingmagazine.com/2009/05/28/12-tips-for-designing-an-excellent-checkout-process/)
+	[Article](http://www.smashingmagazine.com/2011/04/06/fundamental-guidelines-of-e-commerce-checkout-design/)
