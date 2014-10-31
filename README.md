@@ -11,7 +11,7 @@
  
 ###Flow #2 
 
- 1. Register user (username, email, password, 'create new account' button). Below it is enter payment information. 
+ 1. Register user (email, password, 'create new account' button). Below it is enter payment information. 
  2. When user clicks submit, it "auto" logs in user and takes them to the app homepage. 
  
 ##Important UX Ideas
