@@ -36,3 +36,10 @@
   * Make signup a seperate process than login. Some put it both on the same page. But makes the page too complicated.
   
   * Use "icons" rather than "text" to show your sign-up form is **secure**
+  
+  * Best practices for premium sign-up 
+  
+	[idea](http://ux.stackexchange.com/questions/62493/how-to-make-registration-login-for-premium-account-purchase-as-painless-as-possi)
+  	
+  
+	[Article](http://www.smashingmagazine.com/2009/05/28/12-tips-for-designing-an-excellent-checkout-process/)
