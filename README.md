@@ -43,3 +43,10 @@
   	
   
 	[Article](http://www.smashingmagazine.com/2011/04/06/fundamental-guidelines-of-e-commerce-checkout-design/)
+
+  * Make password visible - just thought that if you have user just enter password once, you may want to give them option to "show/hide" it. 
+   
+https://squareup.com/signup 
+
+http://ux.stackexchange.com/questions/20953/why-should-we-ask-the-password-twice-during-registration --> make sure your forget password function works flawlessly and seamlessly. this is the key. 
+  
